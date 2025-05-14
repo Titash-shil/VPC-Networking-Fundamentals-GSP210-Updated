@@ -14,11 +14,11 @@ export ZONE=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Fundamentals-of-Cloud-Logging-GSP610/refs/heads/main/qwiklab_explorers_gsp610.sh
+curl -LO raw.githubusercontent.com/Titash-shil/VPC-Networking-Fundamentals-GSP210-Updated/refs/heads/main/qwiklab_explorers_gsp210.sh
 
-sudo chmod +x qwiklab_explorers_gsp610.sh
+sudo chmod +x qwiklab_explorers_gsp210.sh
 
-./qwiklab_explorers_gsp610.sh
+./qwiklab_explorers_gsp210.sh
 ```
 
 ---
